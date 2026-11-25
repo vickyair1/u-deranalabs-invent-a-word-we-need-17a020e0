@@ -1,0 +1,1 @@
+Build a make.fun entry for bounty u-deranalabs-invent-a-word-we-need-17a020e0 ("Invent a Word We Need", $5, deadline 16:55 WIB 27 Nov): coin one new English word with a one-line definition of at most 140 characters. Entry: "miswave (n.) — waving back at someone who was waving at the person behind you." main.py writes the line to /output/entry.txt and prints it deterministically.
